@@ -20,10 +20,10 @@
       link: '/usage/hayata_gecirme'
 - label: Veri Bilimi 102
   items:
-    - label: FAQ
-      link: /faq
-    - label: Changelog
-      link: /changelog
+    - label: 'Random Forest'
+      link: '/usage/veribilimi102/random_forest'
+    - label: 'Naive Bayes'
+      link: '/usage/veribilimi102/naive_bayes'
 - label: Community
   items:
     - label: 'Github'
