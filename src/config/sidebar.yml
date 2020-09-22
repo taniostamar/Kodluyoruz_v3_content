@@ -4,13 +4,19 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-- label: Usage
+- label: Veri Bilimi 101
   items:
-    - label: 'Creating docs'
+    - label: 'Temeller: Problemi Anlama'
       link: '/usage/creating-docs'
-    - label: 'Navigation'
+    - label: 'Veriyi Anlama'
       link: '/usage/navigation'
-    - label: 'Shadowing'
+    - label: 'Veri Analizi'
+      link: '/usage/shadowing'
+    - label: 'Modelleme'
+      link: '/usage/shadowing'
+    - label: 'Değerlendirme'
+      link: '/usage/shadowing'
+    - label: 'Hayata Geçirme'
       link: '/usage/shadowing'
 - label: More
   items:
