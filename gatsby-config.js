@@ -6,7 +6,7 @@ module.exports = {
     siteDescription: `Burası eğitimde mucizelerin olacağı yer!`,
     siteUrl: `https://rocketdocs.netlify.com`,
     siteAuthor: `@kodluyoruz`,
-    siteImage: `/banner.png`,
+    siteImage: `/yatay logo.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
