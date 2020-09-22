@@ -7,18 +7,18 @@
 - label: Veri Bilimi 101
   items:
     - label: 'Temeller: Problemi Anlama'
-      link: '/usage/creating-docs'
+      link: '/usage/problemi_anlama'
     - label: 'Veriyi Anlama'
-      link: '/usage/navigation'
+      link: '/usage/veriyi_anlama'
     - label: 'Veri Analizi'
-      link: '/usage/shadowing'
+      link: '/usage/veri_analizi'
     - label: 'Modelleme'
-      link: '/usage/shadowing'
+      link: '/usage/modelleme'
     - label: 'Değerlendirme'
-      link: '/usage/shadowing'
+      link: '/usage/degerlendirme'
     - label: 'Hayata Geçirme'
-      link: '/usage/shadowing'
-- label: More
+      link: '/usage/hayata_gecirme'
+- label: Veri Bilimi 102
   items:
     - label: FAQ
       link: /faq
