@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `Kodluyoruz v3`,
     siteTitleShort: `Kodluyoruz v3`,
     siteDescription: `Burası eğitimde mucizelerin olacağı yer!`,
-    siteUrl: `https://rocketdocs.netlify.com`,
+    siteUrl: `https://v3content.netlify.app/`,
     siteAuthor: `@kodluyoruz`,
     siteImage: `/yatay logo.png`,
     siteLanguage: `en`,
@@ -18,7 +18,7 @@ module.exports = {
         configPath: `src/config`,
         docsPath: `src/docs`,
         githubUrl: `https://github.com/taniostamar/Kodluyoruz_v3_content`,
-        baseDir: `examples/gatsby-theme-docs`,
+        baseDir: `/`,
       },
     },
     {
