@@ -6,7 +6,7 @@ module.exports = {
     siteDescription: `Burası eğitimde mucizelerin olacağı yer!`,
     siteUrl: `https://v3content.netlify.app/`,
     siteAuthor: `@kodluyoruz`,
-    siteImage: `/yatay logo.png`,
+    siteImage: `/yatay_logo.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
